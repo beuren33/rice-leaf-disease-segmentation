@@ -302,3 +302,7 @@ O melhor modelo no teste externo foi a ResNet50 com SparseCategoricalCrossEntrop
 
 - Aplicar data augmentation (rotação, espelhamento, variação de brilho e contraste) para aumentar a quantidade dos dados de treino e reduzir a diferença entre o desempenho dos modelos na validação e o teste externo.
 - Testar outras arquiteturas de segmentação além da U-Net, como por exemplo DeepLabV3+, SegFormer ou U-Net++.
+
+## 7.10 Nota sobre os resultados
+
+Os resultados deste projeto podem ser melhores. O foco foi o aprendizado do conteúdo do bootcamp e não obter o melhor desempenho possível, por isso não foi feita uma busca exaustiva por hiperparâmetros, arquiteturas ou dados.
